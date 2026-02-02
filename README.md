@@ -1,8 +1,8 @@
-## 👋 Hola, soy María Florencia Monod
+## Hola, soy María Florencia Monod
 
-💻 Software Developer Junior | Web Development | SQL & MySQL
+Software Developer Junior | Web Development | SQL & MySQL
 
-📍 Buenos Aires, Argentina  
+Buenos Aires, Argentina  
 
 Técnica Universitaria en Programación (UTN) y Software Developer Junior.  
 Experiencia académica en desarrollo web full stack y trabajo colaborativo bajo metodología Scrum.  
@@ -10,7 +10,7 @@ Interesada en oportunidades Junior / Trainee en entornos tecnológicos y de cons
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend:** HTML5 · CSS3 · JavaScript  
 **Backend:** PHP  
@@ -21,7 +21,7 @@ Interesada en oportunidades Junior / Trainee en entornos tecnológicos y de cons
 
 ---
 
-## 🤝 Habilidades blandas
+## Habilidades blandas
 
 - Trabajo en equipo
 - Comunicación
@@ -31,7 +31,7 @@ Interesada en oportunidades Junior / Trainee en entornos tecnológicos y de cons
 
 ---
 
-## 🚀 Proyecto destacado
+## Proyecto destacado
 
 ### 🐾 PetSociety – Plataforma Web de Búsqueda y Adopción de Mascotas  
 🔗 https://petsociety.fwh.is/
@@ -47,7 +47,7 @@ Proyecto académico grupal desarrollado bajo metodología Scrum.
 
 ---
 
-## 👥 Experiencia académica
+## Experiencia académica
 
 **Desarrolladora Web – Proyecto Académico Grupal (UTN)**  
 *Rol: Team Leader / Líder de Proyecto  (experiencia académica) – Duración: 2 meses*
@@ -61,23 +61,23 @@ Proyecto académico grupal desarrollado bajo metodología Scrum.
 
 ---
 
-## 🎓 Educación
+## Educación
 
 **Técnica Universitaria en Programación**  
 Universidad Tecnológica Nacional (UTN)  
-📅 Finalizada en diciembre 2025  
-📊 Promedio general: **9,22 / 10**
+Finalizada en diciembre 2025  
+Promedio general: **9,22 / 10**
 
 ---
 
-## 🌍 Idiomas
+## Idiomas
 
 - **Inglés:** Intermedio (lectura de documentación técnica)
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- 📧 Email: florencia.mnv@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/maria-florencia-monod  
-- 💻 GitHub: https://github.com/FlorMonod  
+- Email: florencia.mnv@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/maria-florencia-monod  
+- GitHub: https://github.com/FlorMonod  
